@@ -1,7 +1,7 @@
 PyQt6==6.6.1
 PyQt6-sip==13.6.0
 paddleocr==2.7.0.3
-opencv-python==4.10.1.26
+opencv-python==4.13.0.92
 Pillow==11.0.0
 numpy==1.26.4
 reportlab==4.0.9
